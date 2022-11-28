@@ -5,7 +5,7 @@ Hello, I'm CaféFPS! My name is Andrés Guzmán, I am a programmer and economist
 Hola, ¡soy CaféFPS! Mi nombre es Andrés Guzmán, soy programador y economista de profesión graduado de la Universidad Nacional de Colombia (UNAL) radicado en Bogotá D.C., Colombia. Me considero un apasionado por la tecnología, la programación y la ciencia de datos. En el año 2021 después de obtener mi título universitario empecé a trabajar en R5Reloaded el cual es un proyecto de la comunidad para moddear un videojuego muy conocido llamado Apex Legends, esto me permitió profundizar mis conocimientos en scripting/programación y ¡relacionarme con programadores muy habilidosos de los cuales he aprendido un montón! Anteriormente trabajé en una empresa del gobierno como científico de datos.
 
 ### Currently working on
-- I'm currently working as a Gameplay Software Engineer on R5Reloaded. **(Shipped products: Flowstate Aim Trainer and Flowstate DM)**
+- I'm currently working as a **Gameplay Software Engineer** on R5Reloaded. **(Shipped products: Flowstate Aim Trainer and Flowstate DM)**
 - I'm currently coworking as a content creator on Youtube. **(I develop viral Apex Legends mods)**
 
 ### What I use:
