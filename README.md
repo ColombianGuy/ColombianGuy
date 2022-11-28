@@ -6,7 +6,7 @@ Hola, ¡soy CaféFPS! Mi nombre es Andrés Guzmán, soy programador y economista
 
 ### Currently working on
 - I'm currently working as a **Gameplay Software Engineer** on R5Reloaded. **(Shipped products: Flowstate Aim Trainer and Flowstate DM)**
-- I'm currently coworking as a content creator on Youtube. **(I develop viral Apex Legends mods)**
+- I'm currently working as a content creator on Youtube. **(I develop viral Apex Legends mods in Squirrel language)**
 
 ### What I use:
 - Squirrel, C#, Python, R, Linux, Git, MySql.
