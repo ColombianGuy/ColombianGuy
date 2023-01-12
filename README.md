@@ -23,10 +23,6 @@ ETH: 0xe975b5D5fa624Da7E52A340071fC6689759b7639
   <img src="https://img.shields.io/github/downloads/ColombianGuy/r5_flowstate/total?label=Flowstate%20downloads&style=for-the-badge">
 </p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ColombianGuy&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-</p> 
-
 ### Socials:
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> **Retículo Endoplasmático#5955**  
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"> [@CafeFPS](https://www.twitter.com/CafeFPS)  
