@@ -17,11 +17,6 @@ Ko-Fi (PayPal): [https://ko-fi.com/r5r_colombia](https://ko-fi.com/r5r_colombia)
 LTC: ltc1qrxjkq0gfyraa94p3fc9mqx7j0d7qcwdtd9h23w  
 ETH: 0xe975b5D5fa624Da7E52A340071fC6689759b7639  
 
-### Profile stats
-<p align="center">
-  <img src="https://img.shields.io/github/downloads/ColombianGuy/r5_flowstate/total?label=Flowstate%20downloads&style=for-the-badge">
-</p>
-
 ### Socials:
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> **Retículo Endoplasmático#5955**  
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"> [@CafeFPS](https://www.twitter.com/CafeFPS)  
