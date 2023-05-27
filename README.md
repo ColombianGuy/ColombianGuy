@@ -4,18 +4,15 @@ Hello, I'm CaféFPS! My name is Andrés Guzmán, I am a programmer and economist
 ### Spanish 👋
 Hola, ¡soy CaféFPS! Mi nombre es Andrés Guzmán, soy programador y economista de profesión graduado de la Universidad Nacional de Colombia (UNAL) radicado en Bogotá D.C., Colombia. Me considero un apasionado por la tecnología, la programación y la ciencia de datos. En el año 2021 después de obtener mi título universitario empecé a trabajar en R5Reloaded el cual es un proyecto de la comunidad para moddear un videojuego muy conocido llamado Apex Legends, esto me permitió profundizar mis conocimientos en scripting/programación y ¡relacionarme con programadores muy habilidosos de los cuales he aprendido un montón!
 
-### Currently working on
-- I'm currently working as a **Gameplay Software Engineer** on R5Reloaded. **(Shipped products: FS Aim Trainer and FS DM. To be shipped: FS Prophunt, FS Duckhunt, FS PK Pushbacks, FS Infection, FS S&D)**
+### Currently working as
+- I'm currently working as a **Gameplay Software Engineer** on R5Reloaded.
 
 ### What I use:
 - Squirrel, C#, Python, R, Linux, Git, MySql.
 
 ### Support me
  In Colombia one dollar is a lot, if you enjoy my mods please consider a donation!
-
-Ko-Fi (PayPal): [https://ko-fi.com/r5r_colombia](https://ko-fi.com/r5r_colombia)  
-LTC: ltc1qrxjkq0gfyraa94p3fc9mqx7j0d7qcwdtd9h23w  
-ETH: 0xe975b5D5fa624Da7E52A340071fC6689759b7639  
+[https://ko-fi.com/r5r_colombia](https://ko-fi.com/r5r_colombia) 
 
 ### Socials:
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> **Retículo Endoplasmático#5955**  
