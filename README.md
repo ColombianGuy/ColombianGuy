@@ -15,5 +15,5 @@ Hola, ¡soy CaféFPS! Mi nombre es Andrés Guzmán, soy programador y economista
 [https://ko-fi.com/r5r_colombia](https://ko-fi.com/r5r_colombia) 
 
 ### Socials:
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> **Retículo Endoplasmático#5955**  
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"> **cafefps**  
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"> [@CafeFPS](https://www.twitter.com/CafeFPS)  
